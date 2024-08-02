@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Gabbar",
+    "profilePic": "https://tse3.mm.bing.net/th?id=OIP.DkSo7QGB43UY5JtiOy-8nQHaEO&pid=Api&P=0&h=180"
+  },
+  {
+    "id": "2",
+    "name": "Akki",
+    "profilePic": "https://tse2.mm.bing.net/th?id=OIP.V6PuewAgMly6Sav4Tpid6wHaK8&pid=Api&P=0&h=180"
+  },
+  {
+    "id": "3",
+    "name": "Thakur",
+    "profilePic": "https://www.tellychakkar.com/sites/www.tellychakkar.com/files/images/movie_image/2020/05/28/Thakur.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Salman",
+    "profilePic": "https://www.bollywoodbiography.in/wp-content/uploads/2017/05/Salman-Khan.jpg"
+  },
+  {
+    "id": "5",
+    "name": "SRK",
+    "profilePic": "https://tse2.mm.bing.net/th?id=OIP.rjA-mMrLzEQ_1q4N1Gk99gHaIL&pid=Api&P=0&h=180"
+  },
+  {
+    "id": "6",
+    "name": "Bobby",
+    "profilePic": "https://www.india.com/wp-content/uploads/2023/10/Bobby-Deol-animal-movie-teaser.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Chota Bheem",
+    "profilePic": "https://i.pinimg.com/736x/4f/82/bd/4f82bd416fd55b8924607d378918cf54.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Thala",
+    "profilePic": "https://c.ndtvimg.com/2024-05/t46l8k08_ms-dhoni_625x300_21_May_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+  },
+  {
+    "id": "9",
+    "name": "Hitman",
+   "profilePic": "https://i1.wp.com/short-biography.com/wp-content/uploads/rohit-sharma/Rohit-Sharma.jpg?w=2000&ssl=1"
+  },
+  {
+    "id": "myUser",
+    "name": "Ranjay",
+    "profilePic": ""
+  }
+]
